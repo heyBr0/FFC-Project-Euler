@@ -12,7 +12,7 @@ nthPrime(100) should return 541.
 nthPrime(1000) should return 7919.
 nthPrime(10001) should return 104743. */
 
-function nthPrime(n) {
+/* function nthPrime(n) {
   const primes = [2];
   let num = 3;
   let isPrime = true;
@@ -32,4 +32,4 @@ function nthPrime(n) {
   }
   return primes[primes.length - 1];
 }
-console.log(nthPrime(6));
+console.log(nthPrime(6)); */
